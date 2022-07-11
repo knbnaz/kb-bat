@@ -1,2 +1,0 @@
-# kb-bat
-# apk
